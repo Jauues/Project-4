@@ -71,3 +71,4 @@ cypress.config.js - here are all cypress configurations. They will overwrite def
 
 Known Cypress limitations:
 * have.css is limited by default to only rgb color scheme. Hex and other formats can be added with [chai-colors assertion plugin](https://stackoverflow.com/questions/66438459/is-there-a-way-to-make-check-on-hex-color-cypress)
+# Cerebrum-automation-project-1
